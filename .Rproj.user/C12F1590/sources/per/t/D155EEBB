@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523857486312.000,
+    "dirty" : false,
+    "encoding" : "GB2312",
+    "folds" : "",
+    "hash" : "3746567348",
+    "id" : "D155EEBB",
+    "lastKnownWriteTime" : 1523857276,
+    "last_content_update" : 1523857276,
+    "path" : "E:/R-3.4.0/Work/Works/Stock Network Construction and Community Detection/classify_name.R",
+    "project_path" : "classify_name.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
